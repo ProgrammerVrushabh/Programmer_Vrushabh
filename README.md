@@ -72,16 +72,24 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<div align="center">
+<p align="center">
   <picture>
     <source 
-      srcset="https://streak-stats.demolab.com?user=ProgrammerVrushabh&count_private=true&theme=react&border_radius=10&ring=00FFFF&fire=FF6F00#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)" />
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://streak-stats.demolab.com?user=ProgrammerVrushabh&theme=react&date_format=j%20M%5B%20Y%5D&fire=FF6F00&ring=00FFFF&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&background=0D1117&border_radius=10&count_private=true" 
+    />
     <source 
-      srcset="https://streak-stats.demolab.com?user=ProgrammerVrushabh&count_private=true&theme=default&border_radius=10#gh-light-mode-only" 
-      media="(prefers-color-scheme: light)" />
-    <img width="390" alt="streak stats" src="https://streak-stats.demolab.com?user=ProgrammerVrushabh&count_private=true&theme=react&border_radius=10" />
+      media="(prefers-color-scheme: light)" 
+      srcset="https://streak-stats.demolab.com?user=ProgrammerVrushabh&theme=default&date_format=j%20M%5B%20Y%5D&border_radius=10&count_private=true" 
+    />
+    <img 
+      src="https://streak-stats.demolab.com?user=ProgrammerVrushabh&theme=react&date_format=j%20M%5B%20Y%5D&fire=FF6F00&ring=00FFFF&count_private=true&border_radius=10" 
+      alt="GitHub Streak Stats" 
+      width="390"
+    />
   </picture>
+</p>
+
   <br/><br/>
   <picture>
     <source 
